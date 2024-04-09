@@ -33,7 +33,7 @@ function display(weather) {
     let weather1 = document.querySelector('.current');
     weather1.innerText = weather.weather[0].main;
 
-   
+
 }
 
 function date1(d) {
